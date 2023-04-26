@@ -7,7 +7,7 @@ File name | Description
 train |original Train split of data as downloaded directly from Kaggle; contains ~160,000 images split between a Bald and NotBald folder; 2% bald / 98% not bald
 test | original Test split of data as downloaded directly from Kaggle; contains ~20,000 images split between a Bald and NotBald folder; 2% bald / 98% not bald
 validation | original Validation split of data as downloaded directly from Kaggle; contains ~25,000 images split between a Bald and NotBald folder; 2% bald / 98% not bald
-ProjectData | dataset we fabricated for our project use which is significantly smaller to account for our limited processing power; contains 2,000 images split between a Bald and NotBald folder; 50% bald / 50% not bald
+ProjectData | dataset I fabricated for project use which is significantly smaller to account for our limited processing power; contains 2,000 images split between a Bald and NotBald folder; 50% bald / 50% not bald
 
 Kaggle data from: https://www.kaggle.com/datasets/ashishjangra27/bald-classification-200k-images-celeba
 
